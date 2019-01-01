@@ -1,10 +1,5 @@
 game.resources = [
     {
-        "name": "dst-inertexponent",
-        "type": "audio",
-        "src": "data/bgm/"
-    },
-    {
         "name": "cling",
         "type": "audio",
         "src": "data/sfx/"
@@ -125,24 +120,9 @@ game.resources = [
         "src": "data/img/sprite/enemy.png"
     },
     {
-        "name": "gripe_run_right",
-        "type": "image",
-        "src": "data/img/sprite/gripe_run_right.png"
-    },
-    {
         "name": "princess",
         "type": "image",
         "src": "data/img/sprite/princess.png"
-    },
-    {
-        "name": "princess1",
-        "type": "image",
-        "src": "data/img/sprite/princess1.png"
-    },
-    {
-        "name": "princess2",
-        "type": "image",
-        "src": "data/img/sprite/princess2.png"
     },
     {
         "name": "protoman_run_right",
@@ -150,59 +130,9 @@ game.resources = [
         "src": "data/img/sprite/protoman_run_right.png"
     },
     {
-        "name": "protoman_run_right2",
-        "type": "image",
-        "src": "data/img/sprite/protoman_run_right2.png"
-    },
-    {
-        "name": "protoman_run_right3",
-        "type": "image",
-        "src": "data/img/sprite/protoman_run_right3.png"
-    },
-    {
-        "name": "spinning_coin_gold",
-        "type": "image",
-        "src": "data/img/sprite/spinning_coin_gold.png"
-    },
-    {
-        "name": "wheelie_right",
-        "type": "image",
-        "src": "data/img/sprite/wheelie_right.png"
-    },
-    {
-        "name": "area01 — kopia",
-        "type": "tmx",
-        "src": "data/map/area01 — kopia.tmx"
-    },
-    {
         "name": "area01",
         "type": "tmx",
         "src": "data/map/area01.tmx"
-    },
-    {
-        "name": "area012",
-        "type": "tmx",
-        "src": "data/map/area012.tmx"
-    },
-    {
-        "name": "area01copy",
-        "type": "tmx",
-        "src": "data/map/area01copy.tmx"
-    },
-    {
-        "name": "area01cp",
-        "type": "tmx",
-        "src": "data/map/area01cp.tmx"
-    },
-    {
-        "name": "area02",
-        "type": "tmx",
-        "src": "data/map/area02.tmx"
-    },
-    {
-        "name": "0x72_16x16RobotTileset.v1",
-        "type": "tsx",
-        "src": "data/map/0x72_16x16RobotTileset.v1.tsx"
     },
     {
         "name": "scifi_platformTiles_32x32",
